@@ -170,6 +170,8 @@ var deprecated = map[string]string{
 	"comments_popup_script":                             "https://core.trac.wordpress.org/browser/trunk/src/wp-includes/deprecated.php?format=txt",
 	"popuplinks":                                        "https://core.trac.wordpress.org/browser/trunk/src/wp-includes/deprecated.php?format=txt",
 	"wp_embed_handler_googlevideo":                      "https://core.trac.wordpress.org/browser/trunk/src/wp-includes/deprecated.php?format=txt",
+	"get_paged_template":                                "https://core.trac.wordpress.org/browser/trunk/src/wp-includes/deprecated.php?format=txt",
+	"wp_kses_js_entities":                               "https://core.trac.wordpress.org/browser/trunk/src/wp-includes/deprecated.php?format=txt",
 	"tinymce_include":                                   "https://core.trac.wordpress.org/browser/trunk/src/wp-admin/includes/deprecated.php?format=txt",
 	"documentation_link":                                "https://core.trac.wordpress.org/browser/trunk/src/wp-admin/includes/deprecated.php?format=txt",
 	"wp_shrink_dimensions":                              "https://core.trac.wordpress.org/browser/trunk/src/wp-admin/includes/deprecated.php?format=txt",
@@ -367,4 +369,5 @@ var deprecated = map[string]string{
 	"wc_shop_order_status_backwards_compatibility":      "https://raw.githubusercontent.com/woothemes/woocommerce/master/includes/wc-deprecated-functions.php",
 	"woocommerce_compile_less_styles":                   "https://raw.githubusercontent.com/woothemes/woocommerce/master/includes/wc-deprecated-functions.php",
 	"woocommerce_calc_shipping_backwards_compatibility": "https://raw.githubusercontent.com/woothemes/woocommerce/master/includes/wc-deprecated-functions.php",
+	"woocommerce_get_product_schema":                    "https://raw.githubusercontent.com/woothemes/woocommerce/master/includes/wc-deprecated-functions.php",
 }
